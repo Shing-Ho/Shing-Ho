@@ -9,4 +9,4 @@
 - 😄 Pronouns: Working Hard...
 - ⚡ Fun fact: ✨
 
-![github stats](https://github-readme-stats.vercel.app/api?username=dwicao&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Shing-Ho&show_icons=true)
