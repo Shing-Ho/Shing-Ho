@@ -3,3 +3,5 @@
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=Shing-Ho&show_icons=true&theme=dracula&count_private=true">
 
+### Can you break these counter?
+![Visitor Count](https://profile-counter.glitch.me/kelvinosse/count.svg)
