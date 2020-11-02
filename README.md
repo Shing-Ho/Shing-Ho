@@ -1,8 +1,6 @@
 <div align="center">
 
 <br/>
-<img src="https://github.com/Shing-Ho/Shing-Ho/blob/master/shingho.gif">
-<br/>
 <img src="https://github.com/Shing-Ho/Shing-Ho/blob/master/activity.png">
 <br/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&private=true">
